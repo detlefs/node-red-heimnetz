@@ -1,0 +1,12 @@
+{
+    "name": "node-red-heimnetz",
+    "description": "Node-RED Konfiguration meines Heimnetzes",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_nodered.json",
+            "credentialsFile": "flows_nodered_cred.json"
+        }
+    }
+}
